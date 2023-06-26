@@ -1,5 +1,5 @@
 const myButton = document.getElementById("my-button");
-const addButton = document.getElementById("add-item");
+const addButton = document.getElementById("add-data");
 const list = document.getElementById("list");
 const text = document.getElementById("area-of-text");
 
