@@ -119,7 +119,7 @@ parcelRequire = (function (modules, cache, entry, globalName) {
   return newRequire;
 })({"src/main.js":[function(require,module,exports) {
 var myButton = document.getElementById("my-button");
-var addButton = document.getElementById("add-item");
+var addButton = document.getElementById("add-data");
 var list = document.getElementById("list");
 var text = document.getElementById("area-of-text");
 function prntHW() {
